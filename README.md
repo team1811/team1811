@@ -1,6 +1,5 @@
 # 🤖 FRC Team 1811 – F.R.E.S.H. 
 1️⃣ **First Robotics East Side High**
-
 🚀 **FMA District | Rookie Year: 2006**  
 📍 **Newark, New Jersey, USA**  
 🏫 **East Side High School**  
