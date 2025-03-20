@@ -8,13 +8,12 @@
 
 ## 👨‍💻 About Us  
 Welcome to the official GitHub of **FRC Team 1811 - F.R.E.S.H!**  
-We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, competing in the **FMA District** since **2006**. Our team is dedicated to mixing innovation, teamwork, and diversity! 🏆⚙️  
+We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, competing in the **FMA District** since **2006**. Our team is dedicated to innovation, teamwork, and pushing the limits of robotics! 🏆⚙️  
 
 ---
 
 ## 🛠️ Technologies We Use  
-💻 **IDE:** PyCharm, LabView
-🐍 **Programming Language:** Python, Java
+💻 **IDE:** PyCharm, LabView | 🐍 **Programming Language:** Python, Java  
 
 ---
 
@@ -33,5 +32,5 @@ We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, compe
 
 ---
 
-✨ **"Stay F.R.E.S.H!"** ✨  
+✨ **"Stay F.R.E.S.H, Stay Innovative!"** ✨  
 🤖💙 **FRC 1811 | Newark, NJ**
