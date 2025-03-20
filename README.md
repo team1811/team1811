@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🤖 FRC Team 1811 – "Fresh"  
+🚀 **FMA District | Rookie Year: 2006**  
+📍 **Newark, New Jersey, USA**  
+🏫 **East Side High School**  
 
-<!--
-**team1811/team1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Us  
+Welcome to the official GitHub of **FRC Team 1811 - "Fresh"!**  
+We're a FIRST Robotics Competition (FRC) team based in **Newark, NJ**, competing in the **FMA District** since **2006**. Our team is dedicated to mixing innovation, technology and diversity! 🏆⚙️  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies We Use  
+💻 **IDE:** PyCharm  
+🐍 **Programming Languages:** Python, LabView, Java
+
+---
+
+## 🚀 Projects  
+🔹 **[Team 1811 2025 Python Swerve](https://github.com/SenseiNotHere/2025Swerve)** – Our cutting-edge swerve drive system for the 2025 season. 🏎️💨  
+🔹 **[2026 Swerve Plan (TalonFX)](https://github.com/SenseiNotHere/2026FRESH-Swerve)** – Future development for a more advanced TalonFX-based swerve drive. 🔧🔋  
+
+---
+
+## 📢 Contacts & Socials  
+📸 **Instagram:** [@team1811](https://www.instagram.com/team1811/#)  
+💬 **2025 & 2026 Programmer:**
+   - Discord: **SenseiNotHere** 🎮  
+   - Instagram: [@le_jonaspains](https://www.instagram.com/le_jonaspains/) 📷  
+   - Email: **painsjonas@icloud.com** 📩  
+
+---
+
+✨ **"Stay Fresh!"** ✨  
+🤖💙 **FRC 1811 | Newark, NJ**
