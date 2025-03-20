@@ -1,4 +1,5 @@
-# 🤖 FRC Team 1811 – FRESH
+# 🤖 FRC Team 1811 – F.R.E.S.H. 
+1️⃣ **First Robotics East Side High**
 🚀 **FMA District | Rookie Year: 2006**  
 📍 **Newark, New Jersey, USA**  
 🏫 **East Side High School**  
@@ -6,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Us  
-Welcome to the official GitHub of **FRC Team 1811 - "Fresh"!**  
+Welcome to the official GitHub of **FRC Team 1811 - FRESH!**  
 We're a FIRST Robotics Competition (FRC) team based in **Newark, NJ**, competing in the **FMA District** since **2006**. Our team is dedicated to mixing innovation, technology and diversity! 🏆⚙️  
 
 ---
@@ -32,5 +33,5 @@ We're a FIRST Robotics Competition (FRC) team based in **Newark, NJ**, competing
 
 ---
 
-✨ **"Stay Fresh!"** ✨  
+✨ **"Stay FRESH!"** ✨  
 🤖💙 **FRC 1811 | Newark, NJ**
