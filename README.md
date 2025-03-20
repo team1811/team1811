@@ -13,21 +13,20 @@ We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, compe
 ---
 
 ## 🛠️ Technologies We Use  
-💻 **IDE:** PyCharm, LabView
-🐍 **Programming Language:** Python, Java
+- 💻 **IDE:** PyCharm, LabView
+- 🐍 **Programming Language:** Python, Java
 
 ---
 
 ## 🚀 Projects  
-🔹 **[Team 1811 2025 Python Swerve](https://github.com/SenseiNotHere/2025Swerve)** – Our cutting-edge swerve drive system for the 2025 season. 🏎️💨  
-🔹 **[2026 Swerve Plan (TalonFX)](https://github.com/SenseiNotHere/2026FRESH-Swerve)** – Future development for a more advanced TalonFX-based swerve drive. 🔧🔋  
+- 🔹 **[Team 1811 2025 Python Swerve](https://github.com/SenseiNotHere/2025Swerve)** – Our cutting-edge swerve drive system for the 2025 season. 🏎️💨  
+- 🔹 **[2026 Swerve Plan (TalonFX)](https://github.com/SenseiNotHere/2026FRESH-Swerve)** – Future development for a more advanced TalonFX-based swerve drive. 🔧🔋  
 
 ---
 
 ## 📢 Contacts & Socials  
-📸 **Instagram:** [@team1811](https://www.instagram.com/team1811/#)  
-💬 **2025 & 2026 Programmer:**  
-   - **Programmer GitHub:** [SenseiNotHere](https://github.com/SenseiNotHere)
+- 📸 **Instagram:** [@team1811](https://www.instagram.com/team1811/#)  
+- 💻 **Programmer GitHub:** [SenseiNotHere](https://github.com/SenseiNotHere)
 
 ---
 
