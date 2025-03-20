@@ -1,5 +1,5 @@
-# 🤖 FRC Team 1811 – F.R.E.S.H. 
-1️⃣ **First Robotics East Side High**
+# 🤖 FRC Team 1811 – **F.R.E.S.H**  
+🔵 **First Robotics East Side High** 🔴  
 🚀 **FMA District | Rookie Year: 2006**  
 📍 **Newark, New Jersey, USA**  
 🏫 **East Side High School**  
@@ -7,14 +7,14 @@
 ---
 
 ## 👨‍💻 About Us  
-Welcome to the official GitHub of **FRC Team 1811 - FRESH!**  
-We're a FIRST Robotics Competition (FRC) team based in **Newark, NJ**, competing in the **FMA District** since **2006**. Our team is dedicated to mixing innovation, technology and diversity! 🏆⚙️  
+Welcome to the official GitHub of **FRC Team 1811 - F.R.E.S.H!**  
+We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, competing in the **FMA District** since **2006**. Our team is dedicated to innovation, teamwork, and pushing the limits of robotics! 🏆⚙️  
 
 ---
 
 ## 🛠️ Technologies We Use  
 💻 **IDE:** PyCharm  
-🐍 **Programming Languages:** Python, LabView, Java
+🐍 **Programming Language:** Python  
 
 ---
 
@@ -26,12 +26,12 @@ We're a FIRST Robotics Competition (FRC) team based in **Newark, NJ**, competing
 
 ## 📢 Contacts & Socials  
 📸 **Instagram:** [@team1811](https://www.instagram.com/team1811/#)  
-💬 **2025 & 2026 Programmer:**
+💬 **2025 & 2026 Programmer:**  
    - Discord: **SenseiNotHere** 🎮  
    - Instagram: [@le_jonaspains](https://www.instagram.com/le_jonaspains/) 📷  
    - Email: **painsjonas@icloud.com** 📩  
 
 ---
 
-✨ **"Stay FRESH!"** ✨  
+✨ **"Stay F.R.E.S.H, Stay Innovative!"** ✨  
 🤖💙 **FRC 1811 | Newark, NJ**
