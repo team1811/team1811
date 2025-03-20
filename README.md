@@ -1,4 +1,4 @@
-# 🤖 FRC Team 1811 – "Fresh"  
+# 🤖 FRC Team 1811 – FRESH
 🚀 **FMA District | Rookie Year: 2006**  
 📍 **Newark, New Jersey, USA**  
 🏫 **East Side High School**  
