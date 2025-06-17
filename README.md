@@ -20,7 +20,7 @@ We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, compe
 
 ## 🚀 Projects  
 - 🔹 **[Team 1811 2025 Python Swerve](https://github.com/SenseiNotHere/2025Swerve)** – Our cutting-edge swerve drive system for the 2025 season. 🏎️💨  
-- 🔹 **[KrakenX60 Swerve)](https://github.com/SenseiNotHere/FRESH-Krakeb)** – Future development for a more advanced TalonFX-based swerve drive. 🔧🔋  
+- 🔹 **[KrakenX60 Swerve](https://github.com/SenseiNotHere/FRESH-Kraken)** – Future development for a more advanced TalonFX-based swerve drive. 🔧🔋  
 
 ---
 
