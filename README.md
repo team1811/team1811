@@ -27,6 +27,8 @@ We're a **FIRST Robotics Competition (FRC) team** based in **Newark, NJ**, compe
 ## 📢 Contacts & Socials  
 - 📸 **Instagram:** [@team1811](https://www.instagram.com/team1811/#)  
 - 💻 **2025/2026 Programmer GitHub:** [SenseiNotHere](https://github.com/SenseiNotHere)
+- 🛜 **Website** [frc1811.com](frc1811.com)
+- 📧 **Email** [1811frc@gmail.com](mailto:1811frc@gmail.com)
 
 ---
 
